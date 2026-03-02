@@ -1,4 +1,4 @@
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://marthazjeffreygreenwichct.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://marthazjeffrey.homes";
 
 export const siteConfig = {
   url: SITE_URL,
