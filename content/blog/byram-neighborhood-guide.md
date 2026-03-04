@@ -29,7 +29,7 @@ Byram sits along the New York state border, adjacent to **Port Chester, NY**. Th
 
 - A welcoming community with a mix of long-time residents and newcomers
 - Strong neighborhood identity with local businesses and gathering spots
-- Walking distance to Port Chester's dining scene, which has become a regional destination for restaurants
+- Close proximity to Port Chester's dining scene, which has become a regional destination for restaurants
 - **Byram Park** and **Byram Shore** offer public beach access, a pool, basketball courts, and green space
 
 Byram has its own character within Greenwich. It's less manicured, more lived-in, and genuinely community-oriented.
@@ -47,7 +47,7 @@ For investors, Byram offers something almost no other Greenwich neighborhood can
 
 ## Commuting from Byram
 
-- **Port Chester Metro-North station** is within walking distance for many Byram residents
+- **Port Chester Metro-North station** is nearby for many Byram residents
 - Express trains reach Grand Central Terminal in approximately 45 minutes, making this one of the fastest commutes in Greenwich
 - **I-95** is immediately accessible
 - Close proximity to **Westchester County Airport (HPN)** for frequent flyers

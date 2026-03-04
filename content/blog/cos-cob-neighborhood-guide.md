@@ -9,7 +9,7 @@ featured: false
 
 ## Why Cos Cob?
 
-Cos Cob is one of Greenwich's best-kept secrets. It offers the most affordable entry point to the Greenwich school system, a rich artistic heritage dating back to the American Impressionist movement, and a walkable village with harbor views. For buyers who want a Greenwich address without a multi-million-dollar price tag, Cos Cob is where to look.
+Cos Cob is one of Greenwich's best-kept secrets. It offers the most affordable entry point to the Greenwich school system, a rich artistic heritage dating back to the American Impressionist movement, and a compact village with harbor views. For buyers who want a Greenwich address without a multi-million-dollar price tag, Cos Cob is where to look.
 
 I've been selling homes in Greenwich for over 40 years, and Cos Cob has always been a neighborhood I love recommending to first-time Greenwich buyers and young families. Here's what makes it special.
 
@@ -31,7 +31,7 @@ All Greenwich neighborhoods share access to Greenwich High School, so even at Co
 
 ## The Village and Harbor
 
-Cos Cob's village center is compact and walkable, with local restaurants, shops, and services clustered near the **Cos Cob train station**. The neighborhood sits along the **Mianus River** and **Cos Cob Harbor**, offering scenic water views and a sense of place that feels distinct from the rest of Greenwich.
+Cos Cob's village center is compact, with local restaurants, shops, and services clustered near the **Cos Cob train station**. The neighborhood sits along the **Mianus River** and **Cos Cob Harbor**, offering scenic water views and a sense of place that feels distinct from the rest of Greenwich.
 
 The harbor area is especially attractive in warmer months, and several waterfront and water-view properties come on the market each year.
 
@@ -39,7 +39,7 @@ The harbor area is especially attractive in warmer months, and several waterfron
 
 - **Cos Cob Metro-North station** offers service to Grand Central Terminal in approximately 52 minutes
 - Easy access to I-95 for those who drive
-- The station is walkable from many parts of the neighborhood
+- The station is close to many parts of the neighborhood
 
 ## What Homes Cost in Cos Cob
 
@@ -57,7 +57,7 @@ Cos Cob is a great fit if you're looking for:
 
 - The most affordable entry to Greenwich's public school system
 - A neighborhood with history, character, and artistic heritage
-- Walkability to the train station, shops, and the harbor
+- Proximity to the train station, shops, and the harbor
 - A strong community feel with a more relaxed pace
 - Water views and harbor access
 

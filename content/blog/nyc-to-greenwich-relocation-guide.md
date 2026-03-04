@@ -48,7 +48,7 @@ Consult your accountant for specifics, but the tax picture is almost always favo
 Each Greenwich neighborhood offers a different lifestyle. Here's a quick guide for NYC relocators:
 
 ### If you love the West Village or Brooklyn Heights:
-**Old Greenwich** — Walkable village center, local shops and restaurants, beach access, strong community feel.
+**Old Greenwich** — Compact village center, local shops and restaurants close by, beach access, strong community feel.
 
 ### If you're coming from the Upper East Side:
 **Belle Haven or Mid-Country** — Elegant estates, manicured properties, a more formal atmosphere similar to what you're used to.
@@ -60,7 +60,7 @@ Each Greenwich neighborhood offers a different lifestyle. Here's a quick guide f
 **Back Country** — Multi-acre estates, horse properties, complete privacy. Think of it as Greenwich's answer to the Hamptons, but year-round.
 
 ### If you want an urban feel with suburban benefits:
-**Downtown Greenwich** — Condos and townhouses on Greenwich Avenue, walking distance to shops, restaurants, and the train.
+**Downtown Greenwich** — Condos and townhouses on Greenwich Avenue, steps from shops, restaurants, and the train.
 
 ## The Timeline: When to Start Looking
 

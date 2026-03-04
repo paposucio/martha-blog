@@ -24,7 +24,7 @@ Waterfront and water-view properties in Greenwich are concentrated in several ar
 The pinnacle of Greenwich waterfront. A gated community on a peninsula with direct Long Island Sound frontage, private club, and 24/7 security. Properties here trade infrequently and often privately.
 
 **Old Greenwich** ($3M-$15M+)
-Shore Road, Lucas Point, and the Tod's Driftway area offer direct waterfront and water-view properties. The walkable village and beach access at Tod's Point add to the appeal.
+Shore Road, Lucas Point, and the Tod's Driftway area offer direct waterfront and water-view properties. The compact village center and beach access at Tod's Point add to the appeal.
 
 **Riverside** ($2M-$8M+)
 Properties along Indian Harbor and the Mianus River offer water views and harbor access. The Riverside Yacht Club provides sailing and marina facilities.

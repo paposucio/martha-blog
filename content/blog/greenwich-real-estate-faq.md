@@ -52,14 +52,14 @@ Metro-North **express trains from Greenwich station** reach Grand Central Termin
 
 Greenwich includes numerous distinct neighborhoods, each with its own character:
 
-- **Old Greenwich** — Walkable village, beach access, Metro-North station
+- **Old Greenwich** — Compact village center, beach access, Metro-North station
 - **Riverside** — Family-oriented, National Blue Ribbon School, train access
 - **Cos Cob** — Artistic heritage, village center, more affordable entry point
 - **Back Country** — Large estates, horse properties, privacy
 - **Belle Haven** — Gated waterfront community, ultra-luxury
 - **Byram** — Welcoming community, more affordable, close to Port Chester
 - **Mid-Country** — Spacious lots, central location
-- **Downtown Greenwich** — Avenue shops, condos, walkability
+- **Downtown Greenwich** — Avenue shops, condos, everything close by
 
 ## Do I need a buyer's agent?
 

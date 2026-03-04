@@ -25,7 +25,7 @@ We encourage buyers to research schools directly through the [Greenwich Public S
 
 ## The Village Center
 
-Riverside's small village center gives the neighborhood its identity. Local shops, a post office, and a few restaurants create a walkable core that fosters community connection. It's quieter than Old Greenwich's Sound Beach Avenue, but that's part of the appeal for families who prefer a more residential feel.
+Riverside's small village center gives the neighborhood its identity. Local shops, a post office, and a few restaurants are clustered together, fostering community connection. It's quieter than Old Greenwich's Sound Beach Avenue, but that's part of the appeal for families who prefer a more residential feel.
 
 ## Yacht Club and Community Life
 
@@ -37,7 +37,7 @@ Riverside offers excellent commuter access:
 
 - **Riverside Metro-North station** provides service to Grand Central Terminal in approximately 48 minutes
 - **I-95** is easily accessible, making driving to Manhattan or Stamford straightforward
-- The station has commuter parking, and many residents walk or bike to the train
+- The station has commuter parking and is a short trip from most parts of the neighborhood
 
 For families with one or both parents commuting to the city, Riverside strikes a strong balance between convenience and suburban tranquility.
 

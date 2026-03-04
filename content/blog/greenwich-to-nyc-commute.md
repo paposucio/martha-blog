@@ -38,7 +38,7 @@ Each station has commuter parking, though availability varies:
 
 - **Greenwich station** has the largest lot but also the highest demand
 - **Riverside and Old Greenwich** have smaller lots that fill early
-- Many residents walk or bike to their nearest station
+- Many residents live close enough to reach their nearest station on foot or by bike
 - Some use car services or have a family member drop them off
 
 Commuter parking permits are available through the Town of Greenwich, and waitlists exist for some stations. This is worth investigating early when choosing a neighborhood.
@@ -64,10 +64,10 @@ Greenwich's location provides convenient access to multiple airports:
 
 If minimizing your commute is a top priority:
 
-- **Downtown Greenwich**: Walk to the station, 47-minute express
-- **Riverside**: Walk to station, 48-minute express
-- **Old Greenwich**: Walk to station, 50-minute express
-- **Byram**: Walk to Port Chester station, 45-minute express (the fastest option)
+- **Downtown Greenwich**: Steps from the station, 47-minute express
+- **Riverside**: Close to the station, 48-minute express
+- **Old Greenwich**: Close to the station, 50-minute express
+- **Byram**: Near Port Chester station, 45-minute express (the fastest option)
 
 If you're willing to drive 5-15 minutes to the station, **Mid-Country** and **Back Country** open up, with total commute times of 55-70 minutes door to door.
 
