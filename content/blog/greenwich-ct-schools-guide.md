@@ -7,14 +7,14 @@ tags: ["Greenwich CT", "schools", "Greenwich High School", "public schools", "pr
 featured: false
 faq:
   - question: "How are the schools in Greenwich CT?"
-    answer: "Greenwich Public Schools are ranked in the top 5 in Connecticut. The district includes 11 elementary schools, 3 middle schools, and Greenwich High School, which serves all 2,700+ students with an 87% college enrollment rate and comprehensive AP/IB programs. Greenwich also has excellent private school options including Greenwich Academy, Brunswick School, and Greenwich Country Day School."
+    answer: "The Greenwich Public Schools district includes 11 elementary schools, 3 middle schools, and Greenwich High School, which serves 2,700+ students with an 87% college enrollment rate and AP/IB programs. Greenwich also has private school options including Greenwich Academy, Brunswick School, and Greenwich Country Day School. We encourage buyers to research schools at greenwichschools.org and GreatSchools.org."
 ---
 
 ## Greenwich Public Schools Overview
 
-Schools are the number one reason families relocate to Greenwich. The **Greenwich Public Schools** district is consistently ranked in the **top 5 in Connecticut** and is regarded as one of the best public school systems in the Northeast.
+Schools are a major factor for families considering Greenwich. The **Greenwich Public Schools** district is one of the largest and most well-funded in Connecticut, supported by the town's $14 billion+ grand list.
 
-Here's what makes it stand out.
+Here's how the system is structured.
 
 ## District Structure
 
@@ -42,7 +42,7 @@ This structure means your neighborhood determines your elementary and middle sch
 | International School at Dundee | Central Greenwich |
 | Parkway School | Central Greenwich |
 
-Each elementary school has its own character and community. Some have particular reputations: **Riverside School** is a National Blue Ribbon School, **Old Greenwich School** is consistently top-rated, and **North Mianus School** and **Cos Cob School** have strong and engaged parent communities.
+Each elementary school has its own character and community. **Riverside School** has been designated a National Blue Ribbon School by the U.S. Department of Education.
 
 ## Middle Schools
 
@@ -52,19 +52,18 @@ Each elementary school has its own character and community. Some have particular
 
 ## Greenwich High School
 
-**Greenwich High School** is the crown jewel of the system:
+**Greenwich High School** serves all Greenwich students in grades 9-12:
 
 - **2,700+ students** in one comprehensive campus
 - **87% college enrollment rate**
-- Comprehensive **AP and IB programs**
-- Strong athletics, arts, and extracurricular programs
-- Consistently ranked among the top public high schools in Connecticut
+- **AP and IB programs**
+- Athletics, arts, and extracurricular programs
 
-The per-pupil spending in Greenwich is among the highest in the state, funded by the town's **$14 billion+ grand list**. This means excellent facilities, a wide range of course offerings, and strong student support services.
+Per-pupil spending in Greenwich is among the highest in the state, funded by the town's **$14 billion+ grand list**.
 
 ## Private School Options
 
-Greenwich also has an exceptional selection of private schools:
+Greenwich also has a number of private school options:
 
 - **Greenwich Academy** — Girls, K-12
 - **Brunswick School** — Boys, Pre-K-12
@@ -74,7 +73,7 @@ Greenwich also has an exceptional selection of private schools:
 - **Stanwich School** — Co-ed, Pre-K-12
 - **Eagle Hill School** — Specializing in learning differences
 
-Many families use the public schools through elementary or middle school and then evaluate private options for high school, or vice versa. Having both strong public and private options gives Greenwich families flexibility that most communities can't match.
+Many families use the public schools through elementary or middle school and then evaluate private options for high school, or vice versa. Having both public and private options gives Greenwich families flexibility.
 
 ## How Schools Factor Into Home Buying
 
@@ -84,6 +83,6 @@ When you buy a home in Greenwich, you're buying into a specific elementary schoo
 - All neighborhoods share Greenwich High School, so the high school is a constant regardless of where you buy
 - Some buyers prioritize school over other factors and work backward from there
 
-I've helped families navigate this decision for over 40 years. Happy to walk you through the options based on your family's priorities.
+We encourage all buyers to visit schools and research them directly. The [Greenwich Public Schools website](https://www.greenwichschools.org) and [GreatSchools.org](https://www.greatschools.org) are good starting points. I've helped families navigate this decision for over 40 years and I'm happy to connect you with the right resources.
 
 **Martha Z Jeffrey** | Sotheby's International Realty | (203) 964-7800 | [marthazjeffrey.com](https://marthazjeffrey.com)

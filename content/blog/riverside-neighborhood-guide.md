@@ -1,7 +1,7 @@
 ---
 title: "Riverside Neighborhood Guide: What Buyers Need to Know"
 date: "2026-03-04"
-description: "A guide to living in Riverside, CT, one of Greenwich's most family-friendly neighborhoods with Blue Ribbon schools, yacht club life, and strong value."
+description: "A guide to living in Riverside, CT, a Greenwich neighborhood with a National Blue Ribbon School, yacht club, village center, and strong value."
 category: "Neighborhoods"
 tags: ["Riverside", "Greenwich CT", "neighborhood guide", "real estate", "family-friendly", "Blue Ribbon school", "commuter rail"]
 featured: false
@@ -9,19 +9,19 @@ featured: false
 
 ## Why Riverside?
 
-Riverside consistently ranks as one of the most family-friendly neighborhoods in Greenwich. With a Blue Ribbon elementary school, a charming village center, easy highway and train access, and a strong sense of community, it attracts buyers who want the best of suburban living without the premium price tag of neighboring Old Greenwich.
+Riverside is one of Greenwich's most popular neighborhoods. With a charming village center, easy highway and train access, and a strong sense of community, it attracts buyers who want suburban living without the premium price tag of neighboring Old Greenwich.
 
 As a Realtor who has worked in Greenwich for over 40 years, I've watched Riverside grow into one of the most desirable addresses in Fairfield County. Here's what you should know if you're considering a move.
 
 ## Schools in Riverside
 
-Education is the top draw for families moving to Riverside:
+Riverside families are served by:
 
-- **Riverside School** (K-5) — A National Blue Ribbon School, consistently rated among the best elementary schools in Connecticut
+- **Riverside School** (K-5) — Designated a National Blue Ribbon School by the U.S. Department of Education
 - **Eastern Middle School** (6-8)
-- **Greenwich High School** (9-12) — One of Connecticut's top public high schools with a comprehensive AP/IB program
+- **Greenwich High School** (9-12) — 2,700+ students, AP/IB programs, 87% college enrollment rate
 
-The school quality here rivals Old Greenwich, and many families choose Riverside specifically for the combination of excellent schools and relative value.
+We encourage buyers to research schools directly through the [Greenwich Public Schools website](https://www.greenwichschools.org) and [GreatSchools.org](https://www.greatschools.org).
 
 ## The Village Center
 
@@ -49,13 +49,13 @@ Riverside offers a range of housing options:
 - **Updated 4-5 bedroom homes**: $1.8M-$3.5M
 - **Larger estates and waterfront-adjacent**: $3.5M-$6M+
 
-Compared to Old Greenwich, Riverside generally offers more house for the money while delivering similar school quality and commuter convenience. The most competitive price range is $1.5M-$3M for move-in-ready family homes.
+Compared to Old Greenwich, Riverside generally offers more house for the money with similar commuter convenience. The most competitive price range is $1.5M-$3M for move-in-ready family homes.
 
 ## Is Riverside Right for You?
 
 Riverside is an excellent fit if you're looking for:
 
-- A top-rated public school system, anchored by a Blue Ribbon elementary school
+- Riverside School, a National Blue Ribbon School
 - A family-oriented community with an active neighborhood association
 - Strong commuter rail and highway access to NYC
 - More value per dollar compared to Old Greenwich

@@ -55,7 +55,7 @@ Belle Haven families are served by:
 - **Central Middle School** (6-8)
 - **Greenwich High School** (9-12)
 
-Many Belle Haven families also opt for Greenwich's excellent private schools, with **Greenwich Academy**, **Brunswick School**, and **Sacred Heart Greenwich** all within a short drive.
+Many Belle Haven families also opt for Greenwich's private schools, with **Greenwich Academy**, **Brunswick School**, and **Sacred Heart Greenwich** all within a short drive.
 
 ## Commuting from Belle Haven
 

@@ -47,7 +47,7 @@ The **Round Hill Club**, a private country club, is also located here, offering 
 
 Mid-Country families are served by:
 
-- **North Mianus School** (K-5) — A well-regarded elementary school with strong community involvement
+- **North Mianus School** (K-5)
 - **Central Middle School** (6-8)
 - **Greenwich High School** (9-12)
 

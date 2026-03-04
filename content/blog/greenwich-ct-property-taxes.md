@@ -7,7 +7,7 @@ tags: ["Greenwich CT", "property taxes", "mill rate", "real estate taxes", "buyi
 featured: false
 faq:
   - question: "What are property taxes like in Greenwich CT?"
-    answer: "Greenwich has a mill rate of 11.880 (2024-2025), which is one of the lowest in Connecticut. Property taxes are calculated on 70% of fair market value. For example, a $1.5 million home would pay approximately $12,474 per year. Greenwich's low taxes are supported by its $14 billion+ grand list, which funds excellent schools and services without the tax burden seen in neighboring towns."
+    answer: "Greenwich has a mill rate of 11.880 (2024-2025), which is one of the lowest in Connecticut. Property taxes are calculated on 70% of fair market value. For example, a $1.5 million home would pay approximately $12,474 per year. Greenwich's low taxes are supported by its $14 billion+ grand list, which funds schools and services without the tax burden seen in neighboring towns."
 ---
 
 ## How Greenwich Property Taxes Work
@@ -57,7 +57,7 @@ Your real estate attorney or the Greenwich Assessor's Office can provide details
 
 Greenwich's property tax burden is meaningfully lower than many surrounding communities. For a $2 million home, you'll typically pay less in Greenwich than you would in Stamford, Norwalk, Darien, or most Westchester County towns. This tax advantage is a significant factor for buyers comparing communities.
 
-The combination of low taxes, top-ranked schools, and strong property values makes Greenwich one of the best value propositions in the New York metropolitan area for high-end buyers.
+The combination of low taxes, well-funded schools, and strong property values makes Greenwich a compelling proposition in the New York metropolitan area for buyers.
 
 If you have questions about how property taxes affect a specific purchase, I'm happy to run the numbers for you.
 

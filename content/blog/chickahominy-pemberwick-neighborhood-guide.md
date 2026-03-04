@@ -30,7 +30,7 @@ Families in Chickahominy and Pemberwick are served by:
 
 - **Glenville School** (K-5) — A neighborhood school with a loyal following and strong community involvement
 - **Western Middle School** (6-8)
-- **Greenwich High School** (9-12) — One of Connecticut's top-performing public high schools
+- **Greenwich High School** (9-12) — 2,700+ students, AP/IB programs
 
 As with all Greenwich neighborhoods, the high school is shared across the entire town. A family buying a home here at $600K has the same access to Greenwich High School's AP/IB programs as a family in a $10M home elsewhere in town.
 

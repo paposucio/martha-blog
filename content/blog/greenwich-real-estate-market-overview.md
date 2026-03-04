@@ -36,7 +36,7 @@ The ultra-luxury segment ($10M+) is smaller by transaction volume but remains ro
 
 ## Who's Buying
 
-NYC transplants continue to be the largest source of new buyers, accounting for roughly **35% of all Greenwich purchases**. These buyers are typically families seeking top-rated schools, more space, and a suburban lifestyle while maintaining commuter access to Manhattan via Metro-North.
+NYC transplants continue to be the largest source of new buyers, accounting for roughly **35% of all Greenwich purchases**. These buyers are typically families seeking more space and a suburban lifestyle while maintaining commuter access to Manhattan via Metro-North.
 
 The most competitive price band is **$1.5M-$4M**, where move-in-ready homes in desirable school districts regularly attract multiple offers and sell near or above asking price.
 

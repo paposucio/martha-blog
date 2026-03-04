@@ -58,7 +58,7 @@ Families with younger children also have easy access to several of Greenwich's p
 
 ## Who Lives Downtown?
 
-Downtown Greenwich attracts a diverse mix of buyers:
+Downtown Greenwich attracts a wide range of buyers:
 
 - **NYC commuters** who want the shortest possible train ride
 - **Empty nesters** downsizing from larger Greenwich homes who want walkability and convenience

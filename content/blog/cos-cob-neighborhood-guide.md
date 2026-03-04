@@ -23,9 +23,9 @@ That artistic character still shows up in the neighborhood's personality. Cos Co
 
 Cos Cob families are served by:
 
-- **Cos Cob School** (K-5) — A strong community school with an engaged parent body
+- **Cos Cob School** (K-5)
 - **Central Middle School** (6-8)
-- **Greenwich High School** (9-12) — One of Connecticut's top public high schools
+- **Greenwich High School** (9-12) — 2,700+ students, AP/IB programs
 
 All Greenwich neighborhoods share access to Greenwich High School, so even at Cos Cob's lower price points, your children have the same high school opportunities as families in any other part of town.
 

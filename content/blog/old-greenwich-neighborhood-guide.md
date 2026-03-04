@@ -1,7 +1,7 @@
 ---
 title: "Old Greenwich Neighborhood Guide: What Buyers Need to Know"
 date: "2026-03-02"
-description: "A comprehensive guide to living in Old Greenwich, CT — from waterfront homes and top-rated schools to the village center and commuter rail access."
+description: "A comprehensive guide to living in Old Greenwich, CT — from waterfront homes and the village center to commuter rail access and neighborhood schools."
 category: "Neighborhoods"
 tags: ["Old Greenwich", "Greenwich CT", "neighborhood guide", "real estate", "waterfront properties", "schools", "commuter rail"]
 featured: true
@@ -9,7 +9,7 @@ featured: true
 
 ## Why Old Greenwich?
 
-Old Greenwich is one of the most sought-after neighborhoods in all of Fairfield County — and for good reason. With its walkable village center, direct Metro-North access to Grand Central Terminal, top-rated schools, and proximity to some of Connecticut's best beaches, Old Greenwich offers a lifestyle that attracts families from across the tri-state area.
+Old Greenwich is one of the most sought-after neighborhoods in all of Fairfield County — and for good reason. With its walkable village center, direct Metro-North access to Grand Central Terminal, proximity to some of Connecticut's best beaches, and access to Greenwich Public Schools, Old Greenwich offers a lifestyle that attracts families from across the tri-state area.
 
 As a real estate agent who has worked in Greenwich for over 40 years, I've helped dozens of families find their perfect home in Old Greenwich. Here's what you should know if you're considering a move.
 
@@ -19,17 +19,17 @@ Old Greenwich's village center along Sound Beach Avenue is the heart of the neig
 
 ## Schools in Old Greenwich
 
-Old Greenwich is served by some of the highest-rated public schools in Connecticut:
+Old Greenwich is served by the following Greenwich Public Schools:
 
-- **Old Greenwich School** (K–5) — Consistently rated among the top elementary schools in Fairfield County
-- **Eastern Middle School** (6–8)
-- **Greenwich High School** (9–12) — One of Connecticut's top-performing public high schools
+- **Old Greenwich School** (K-5)
+- **Eastern Middle School** (6-8)
+- **Greenwich High School** (9-12) — 2,700+ students, AP/IB programs, 87% college enrollment rate
 
-Many families relocating from New York City choose Old Greenwich specifically for the school system, which rivals the best private schools while being tuition-free.
+Many families relocating from New York City choose Old Greenwich in part for its access to the Greenwich school system. We encourage buyers to research schools directly through the [Greenwich Public Schools website](https://www.greenwichschools.org) and [GreatSchools.org](https://www.greatschools.org).
 
 ## Waterfront Living
 
-Old Greenwich offers some of Greenwich's most desirable waterfront and water-view properties. From estates overlooking Long Island Sound to charming cottage-style homes near Tod's Point (Greenwich Point Park), the waterfront inventory is diverse.
+Old Greenwich offers some of Greenwich's most desirable waterfront and water-view properties. From estates overlooking Long Island Sound to charming cottage-style homes near Tod's Point (Greenwich Point Park), the waterfront inventory is varied.
 
 Key waterfront areas include:
 
@@ -60,7 +60,7 @@ The market in Old Greenwich remains competitive, particularly for move-in-ready 
 Old Greenwich is an ideal fit if you're looking for:
 
 - A walkable, village-oriented community
-- Top-rated public schools
+- Access to Greenwich Public Schools
 - Easy commuter rail access to NYC
 - Beach and waterfront lifestyle
 - A strong sense of neighborhood identity within the larger Greenwich community

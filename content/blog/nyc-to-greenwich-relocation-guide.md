@@ -9,7 +9,7 @@ featured: true
 
 ## Why Families Are Moving from NYC to Greenwich
 
-Every year, hundreds of families make the move from New York City to Greenwich, Connecticut. The reasons are consistent: more space, excellent schools, lower taxes, and a quality of life that's hard to match — all while maintaining easy access to Manhattan.
+Every year, hundreds of families make the move from New York City to Greenwich, Connecticut. The reasons are consistent: more space, access to the Greenwich Public Schools system, lower taxes, and a quality of life that's hard to match — all while maintaining easy access to Manhattan.
 
 As a real estate agent who has helped countless NYC families make this transition over the past 40+ years, I can tell you: the move is worth it, and it's smoother than you think when you have the right guidance.
 
@@ -22,16 +22,16 @@ One of the biggest concerns for NYC relocators is the commute. Here's the realit
 - **Driving**: 35–45 minutes to Midtown via I-95 in off-peak hours (longer during rush hour).
 - **Many Greenwich residents** report that their door-to-door commute is comparable to what they experienced living in Brooklyn or the Upper West Side.
 
-## Schools: A Primary Driver
+## Schools: A Primary Factor
 
-For most families, schools are the number-one reason for the move. Greenwich's public school system is among the best in the nation:
+For most families, schools are a major factor in the move. The Greenwich Public Schools district includes 11 elementary schools, 3 middle schools, and Greenwich High School:
 
-- **Greenwich High School** consistently ranks as a top public high school in Connecticut
-- Elementary schools like **Old Greenwich School**, **Riverside School**, and **North Street School** are highly rated
-- The district offers extensive AP courses, arts programs, and athletics
-- Class sizes are manageable and resources are excellent
+- **Greenwich High School** serves 2,700+ students with AP/IB programs and an 87% college enrollment rate
+- **11 elementary schools** each serve a specific neighborhood
+- **Riverside School** has been designated a National Blue Ribbon School by the U.S. Department of Education
+- Per-pupil spending is among the highest in Connecticut, funded by the town's $14B+ grand list
 
-Many families find that Greenwich public schools offer an education comparable to NYC private schools — without the $40,000–$60,000 annual tuition.
+We encourage buyers to research schools directly at [greenwichschools.org](https://www.greenwichschools.org) and [GreatSchools.org](https://www.greatschools.org).
 
 ## Tax Advantages
 
@@ -54,7 +54,7 @@ Each Greenwich neighborhood offers a different lifestyle. Here's a quick guide f
 **Belle Haven or Mid-Country** — Elegant estates, manicured properties, a more formal atmosphere similar to what you're used to.
 
 ### If you're a Park Slope family:
-**Riverside** — Family-first neighborhood, excellent elementary school, tree-lined streets, casual and welcoming.
+**Riverside** — Family-oriented neighborhood, National Blue Ribbon School, tree-lined streets, casual and welcoming.
 
 ### If you want maximum space and privacy:
 **Back Country** — Multi-acre estates, horse properties, complete privacy. Think of it as Greenwich's answer to the Hamptons, but year-round.

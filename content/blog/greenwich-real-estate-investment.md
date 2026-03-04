@@ -23,7 +23,7 @@ Greenwich home values have shown consistent long-term appreciation:
 - **Median home price**: $1.85 million, up steadily over the past decade
 - **Total sales volume (2024)**: 825 transactions
 
-The market has proven resilient through economic cycles. Greenwich's combination of proximity to New York City, top-ranked schools, and limited buildable land creates structural demand that supports values even during downturns.
+The market has proven resilient through economic cycles. Greenwich's combination of proximity to New York City, well-funded public schools, and limited buildable land creates structural demand that supports values even during downturns.
 
 ## Rental Market
 

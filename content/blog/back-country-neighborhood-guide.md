@@ -48,7 +48,7 @@ Back Country families are served by:
 - **Western Middle School** (6-8)
 - **Greenwich High School** (9-12)
 
-Many Back Country families also choose from Greenwich's strong private school options, including **Greenwich Academy**, **Brunswick School**, and **Greenwich Country Day School**, all of which are a short drive away.
+Many Back Country families also choose from Greenwich's private school options, including **Greenwich Academy**, **Brunswick School**, and **Greenwich Country Day School**, all of which are a short drive away.
 
 ## Commuting Considerations
 

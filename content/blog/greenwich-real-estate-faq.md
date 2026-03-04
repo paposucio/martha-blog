@@ -9,7 +9,7 @@ faq:
   - question: "What is the average home price in Greenwich CT?"
     answer: "As of 2025–2026, the median single-family home price in Greenwich is approximately $2.5–$3 million, though prices vary significantly by neighborhood. Condos and townhouses start around $400,000–$800,000, while waterfront estates can exceed $15 million."
   - question: "How are the public schools in Greenwich?"
-    answer: "Greenwich public schools are consistently ranked among the best in Connecticut and the nation. Greenwich High School is one of the state's top-performing public high schools, and elementary schools like North Street School, Old Greenwich School, and Riverside School receive excellent ratings."
+    answer: "The Greenwich Public Schools district includes 11 elementary schools, 3 middle schools, and Greenwich High School (2,700+ students, AP/IB programs, 87% college enrollment rate). Riverside School has been designated a National Blue Ribbon School. We encourage buyers to research schools at greenwichschools.org and GreatSchools.org."
   - question: "What are the property taxes in Greenwich CT?"
     answer: "Greenwich has one of the lowest mill rates in Connecticut, currently around 11.59 mills. On a $2 million home, annual property taxes would be approximately $23,000–$25,000. This is notably lower than many surrounding Fairfield County towns."
   - question: "How long does it take to commute from Greenwich to New York City?"
@@ -36,9 +36,9 @@ The most active price range for single-family homes is **$1.5M–$4M**, which ty
 
 ## How are the public schools in Greenwich?
 
-Greenwich public schools are consistently ranked among the **best in Connecticut and the nation**. Greenwich High School is one of the state's top-performing public high schools, and elementary schools like North Street School, Old Greenwich School, and Riverside School receive excellent ratings.
+The **Greenwich Public Schools** district includes 11 elementary schools, 3 middle schools, and Greenwich High School (2,700+ students, AP/IB programs, 87% college enrollment rate). **Riverside School** has been designated a National Blue Ribbon School by the U.S. Department of Education.
 
-The school system is a primary driver for families relocating from New York City, offering a quality of education that rivals top private schools.
+The school system is a significant factor for families relocating from New York City. We encourage buyers to research schools directly at [greenwichschools.org](https://www.greenwichschools.org) and [GreatSchools.org](https://www.greatschools.org).
 
 ## What are the property taxes in Greenwich CT?
 
@@ -53,11 +53,11 @@ Metro-North **express trains from Greenwich station** reach Grand Central Termin
 Greenwich includes numerous distinct neighborhoods, each with its own character:
 
 - **Old Greenwich** — Walkable village, beach access, Metro-North station
-- **Riverside** — Family-oriented, excellent schools, train access
+- **Riverside** — Family-oriented, National Blue Ribbon School, train access
 - **Cos Cob** — Artistic heritage, village center, more affordable entry point
 - **Back Country** — Large estates, horse properties, privacy
 - **Belle Haven** — Gated waterfront community, ultra-luxury
-- **Byram** — Diverse, more affordable, close to Port Chester
+- **Byram** — Welcoming community, more affordable, close to Port Chester
 - **Mid-Country** — Spacious lots, central location
 - **Downtown Greenwich** — Avenue shops, condos, walkability
 
