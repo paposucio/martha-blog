@@ -56,13 +56,20 @@ export default async function BlogPostPage({
       />
       {post.faq && <JsonLd data={faqPageJsonLd(post.faq)} />}
 
-      <article className="mx-auto max-w-3xl px-6 py-16">
-        {/* Header */}
-        <div className="mb-10">
+      {/* Post header */}
+      <section className="bg-white py-16 border-b border-gray-200">
+        <div className="mx-auto max-w-[720px] px-6">
+          <Link
+            href="/blog"
+            className="text-sm text-warm-gray hover:text-navy transition-colors mb-6 inline-block"
+          >
+            &larr; Back to Blog
+          </Link>
           <div className="flex items-center gap-3 mb-4">
-            <span className="text-xs font-medium px-2 py-1 bg-navy/10 text-navy">
+            <span className="text-xs font-semibold text-gold uppercase tracking-wider">
               {post.category}
             </span>
+            <span className="text-xs text-warm-gray">&middot;</span>
             <time className="text-sm text-warm-gray">
               {new Date(post.date).toLocaleDateString("en-US", {
                 year: "numeric",
@@ -71,55 +78,67 @@ export default async function BlogPostPage({
               })}
             </time>
           </div>
-          <h1 className="font-serif text-4xl text-navy leading-tight">
+          <h1 className="font-serif text-3xl md:text-4xl text-navy leading-tight mb-4">
             {post.title}
           </h1>
-          <p className="mt-4 text-lg text-warm-gray">{post.description}</p>
+          <p className="text-lg text-warm-gray">{post.description}</p>
+          <div className="divider-gold mt-8" />
         </div>
+      </section>
 
-        {/* Content */}
+      {/* Content */}
+      <article className="mx-auto max-w-[720px] px-6 py-12">
         <div
           className="prose"
           dangerouslySetInnerHTML={{ __html: htmlContent }}
         />
 
-        {/* Author Card */}
-        <div className="mt-16 p-6 bg-cream border-l-4 border-gold">
-          <h3 className="font-serif text-lg text-navy mb-2">
-            About the Author
-          </h3>
-          <p className="text-sm text-warm-gray leading-relaxed">
-            <strong>Martha Z Jeffrey</strong> is a licensed real estate agent
-            with Sotheby&apos;s International Realty in Greenwich, CT. With 40+
-            years of experience, she specializes in luxury homes, waterfront
-            properties, and NYC-to-CT relocations.{" "}
-            <a
-              href="https://marthazjeffrey.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-navy hover:text-gold underline underline-offset-2"
-            >
-              Visit her website
-            </a>{" "}
-            or call{" "}
-            <a
-              href="tel:+12039647800"
-              className="text-navy hover:text-gold underline underline-offset-2"
-            >
-              (203) 964-7800
-            </a>
-            .
-          </p>
-        </div>
+        {/* Tags */}
+        {post.tags && post.tags.length > 0 && (
+          <div className="mt-12 pt-8 border-t border-gray-200">
+            <div className="flex flex-wrap gap-2">
+              {post.tags.map((tag) => (
+                <span
+                  key={tag}
+                  className="text-xs text-warm-gray border border-gray-200 px-3 py-1"
+                >
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
 
-        {/* Back link */}
-        <div className="mt-10">
-          <Link
-            href="/blog"
-            className="text-sm text-warm-gray hover:text-navy transition-colors"
-          >
-            &larr; Back to all posts
-          </Link>
+        {/* Author Card */}
+        <div className="mt-12 p-6 bg-white border border-gray-200 flex flex-col sm:flex-row gap-5 items-start">
+          {/* Avatar placeholder */}
+          <div className="w-16 h-16 rounded-full image-placeholder shrink-0" />
+          <div>
+            <h3 className="font-serif text-lg text-navy mb-1">
+              Martha Z Jeffrey
+            </h3>
+            <p className="text-sm text-warm-gray leading-relaxed">
+              Licensed real estate agent with Sotheby&apos;s International
+              Realty in Greenwich, CT. 40+ years of experience specializing in
+              luxury homes, waterfront properties, and NYC-to-CT relocations.{" "}
+              <a
+                href="https://marthazjeffrey.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-navy hover:text-gold underline underline-offset-2 decoration-gold"
+              >
+                Visit her website
+              </a>{" "}
+              or call{" "}
+              <a
+                href="tel:+12039647800"
+                className="text-navy hover:text-gold underline underline-offset-2 decoration-gold"
+              >
+                (203) 964-7800
+              </a>
+              .
+            </p>
+          </div>
         </div>
       </article>
     </>

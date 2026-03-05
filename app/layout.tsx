@@ -35,7 +35,10 @@ export default function RootLayout({
         <JsonLd data={organizationJsonLd()} />
         <JsonLd data={webSiteJsonLd()} />
       </head>
-      <body className="min-h-screen flex flex-col">
+      <body className="min-h-screen flex flex-col antialiased">
+        <div className="under-construction-banner">
+          SITE UNDER CONSTRUCTION &mdash; Full launch coming soon
+        </div>
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
